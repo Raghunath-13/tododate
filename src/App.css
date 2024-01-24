@@ -1,0 +1,31 @@
+#heading{
+  font-weight: 700;
+  font-size: 40px;
+  color:rgb(0, 0, 0);
+  font-family: cursive;
+ 
+}
+
+input{
+  width: 100%;
+}
+
+.kg-rows{
+  margin: 15px;
+}
+
+.kg-button{
+  min-width: 70px;
+}
+
+
+.todo-container{
+margin-left: 700px;
+}
+
+.enjoy{
+  font-size: 50px;
+  font-weight: bold;
+  font-family: cursive;
+  color:rgb(172, 241, 172)
+}
